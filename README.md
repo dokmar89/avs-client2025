@@ -1,13 +1,13 @@
-# Age-verification client — documentation placeholder
+# Klient ověřování věku — dokumentační záměr
 
-**Status: documentation-only / legacy placeholder.** The current branch contains only `README.md`. This is not a runnable or distributable project.
+**Stav: pouze dokumentace / starší záměr.** Aktuální větev obsahuje jen `README.md`. Nejde o spustitelný ani distribuovatelný projekt.
 
-The earlier README described a proposed age-verification client and Supabase integration, but no application source, package manifest or schema is present.
+Dřívější README popisovalo zamýšleného ověřovacího klienta a integraci Supabase. Zdroj aplikace, manifest balíčku ani databázové schéma však nejsou přítomné.
 
-## Current scope
+## Současný rozsah
 
-There are no installation or build steps supported by this checkout. The repository is retained because it is not empty. Previous descriptions of intended features should not be interpreted as implemented functionality.
+Obsah repozitáře neumožňuje uvést ověřený postup instalace nebo sestavení. Repozitář zůstal zachován, protože není prázdný. Původní popisy zamýšlených funkcí nelze považovat za hotovou implementaci.
 
-## Next step
+## Další krok
 
-Either add the actual implementation and a tested usage example, or keep this clearly labelled as a historical placeholder. Do not add credentials, internal account details or production data to examples.
+Doplnit skutečný zdrojový kód a otestovaný příklad použití, nebo projekt ponechat jasně označený jako historický záměr. Příklady nesmějí obsahovat přihlašovací údaje, interní účty ani produkční data.
